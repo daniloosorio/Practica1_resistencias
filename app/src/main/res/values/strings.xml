@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practica1_resistencias</string>
+    <string name="titulo">Calculadora de Resistencias</string>
+    <string name="cafe">Cafe</string>
+    <string name="rojo">Rojo</string>
+    <string name="naranja">Naranja</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+    <string name="morado">Morado</string>
+    <string name="gris">Gris</string>
+    <string name="blanco">Blanco</string>
+    <string name="negro">Negro</string>
+    <string name="dorado">Dorado</string>
+    <string name="Plateado">Plateado</string>
+</resources>
